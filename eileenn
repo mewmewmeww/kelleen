@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Weekly Journal</title>
+    <style type="text/css">
+body {
+    	    border-style: solid;
+    	    border-color: #DAA520;
+        	    border-width: medium;
+	    background-color= #FFFFE0;
+    </style>
+</head>
+	<body>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/-tn2S3kJlyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html>
